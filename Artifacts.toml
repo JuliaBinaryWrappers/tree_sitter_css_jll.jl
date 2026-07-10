@@ -1,0 +1,160 @@
+[[tree_sitter_css]]
+arch = "aarch64"
+git-tree-sha1 = "5c0f9f604c99763f71e861d58032b7ca92d61489"
+os = "macos"
+
+    [[tree_sitter_css.download]]
+    sha256 = "afc572102c73ab92080676a979a7f61f8fd749233e6d0528237a6fb1b6d130a4"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.aarch64-apple-darwin.tar.gz"
+[[tree_sitter_css]]
+arch = "aarch64"
+git-tree-sha1 = "75919503d454888b9fdd05ed2be90dd6c57a9dff"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "6dc9967d68bbb93679d8f068fec05c4b5562ace68871b175a3f59969324fd53c"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.aarch64-linux-gnu.tar.gz"
+[[tree_sitter_css]]
+arch = "aarch64"
+git-tree-sha1 = "b48d4823f8ca467a97af583f192d34de021e8968"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "9fccf60034af0c58ab6fc3ab4ce5b35e44e0d74fbb0094e2e79dd7b07c32624d"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.aarch64-linux-musl.tar.gz"
+[[tree_sitter_css]]
+arch = "aarch64"
+git-tree-sha1 = "480f1e4d25a7a45857a83dba2d214fe7aa5590f6"
+os = "freebsd"
+
+    [[tree_sitter_css.download]]
+    sha256 = "058bd3c020f3258a7d7f5c1a6e82da8e97bf2cc0ec2eb5bcf2075e4b52e242cc"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.aarch64-unknown-freebsd.tar.gz"
+[[tree_sitter_css]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4786ef19029599cd7157312f2ded44450878849e"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "39f098b02554e8010d34dba24ab604a6b36aaf9010f7dc490fb6f606c117490c"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.armv6l-linux-gnueabihf.tar.gz"
+[[tree_sitter_css]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1a8b81e83882ce1c9dfbab7152c5d666d059c2c6"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "443e12cd879c67e0185ae3c76632f2d66bd22e6c5cbe3e3f83c0135c637be195"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.armv6l-linux-musleabihf.tar.gz"
+[[tree_sitter_css]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "74909f1cae0c3512232d061f26422b5cefa9c512"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "251bab5d0e2d2fcce340cf26e1f686ff9780ee46d5d1a23f1a36b404b65e2619"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.armv7l-linux-gnueabihf.tar.gz"
+[[tree_sitter_css]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4d49006b08ff7906dad2e7771e6025eef1847b60"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "a4c930aa0fd0213d5af9daaff22d466968ff33fbbb142c916966f4788c8a9605"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.armv7l-linux-musleabihf.tar.gz"
+[[tree_sitter_css]]
+arch = "i686"
+git-tree-sha1 = "1101f469f1f3a4c026575ddd9efeaed1d07e952a"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "3c8166a6bfc760f842657e8d52d11dd403fade81764e0a1fbb6dc4b09bf6c671"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.i686-linux-gnu.tar.gz"
+[[tree_sitter_css]]
+arch = "i686"
+git-tree-sha1 = "c5c02774e2ee46cc1c8caaa2d75e4519edd775e4"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "a208b8e11fc15d960810b004a9628612b23f25959bf7d51d3697e44f0a7f0188"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.i686-linux-musl.tar.gz"
+[[tree_sitter_css]]
+arch = "i686"
+git-tree-sha1 = "6b8475c7081bca4b1b35db13a4788205a41a20ce"
+os = "windows"
+
+    [[tree_sitter_css.download]]
+    sha256 = "46ff3a0c24dc9a1cd0c7dde74b75b301e01a2d06d813beaed3ac6d526a6eb2c5"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.i686-w64-mingw32.tar.gz"
+[[tree_sitter_css]]
+arch = "powerpc64le"
+git-tree-sha1 = "dfef92bd5f3dd5ee59c1f5968a59ba12d6458975"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "5f592f3683b2abfeb47f20e71202ad2e50bf31e62e3eb2bae8e9ebb2f555869b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.powerpc64le-linux-gnu.tar.gz"
+[[tree_sitter_css]]
+arch = "riscv64"
+git-tree-sha1 = "c486a48796f6ea93b67f8551f33fae692e6b872b"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "04afa5253051e1b9c28ff2fa09b65e06ba50e3d100004117afd2940409cb18d4"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.riscv64-linux-gnu.tar.gz"
+[[tree_sitter_css]]
+arch = "x86_64"
+git-tree-sha1 = "e06f882dd4d31c1022ea2037909daa769af70f73"
+os = "macos"
+
+    [[tree_sitter_css.download]]
+    sha256 = "9df2df8ba987f306537a3ff65ff6430046b61cbb527311bc59f0c4995193de89"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.x86_64-apple-darwin.tar.gz"
+[[tree_sitter_css]]
+arch = "x86_64"
+git-tree-sha1 = "96a1232aa49981f17c793933da7de7753b6b13a3"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "0fd7ae5dd7ec8defe87e27933d72b9920c3a8a5ebb39819ef9432d8837c7efab"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.x86_64-linux-gnu.tar.gz"
+[[tree_sitter_css]]
+arch = "x86_64"
+git-tree-sha1 = "cf76618a58f4b79094371154819ffe042e622566"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_css.download]]
+    sha256 = "bf86f412a7897497f0918b0a16ae0dc413eae84b7efb4bdb32b653f7aa31043b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.x86_64-linux-musl.tar.gz"
+[[tree_sitter_css]]
+arch = "x86_64"
+git-tree-sha1 = "0c9245aa4299403301aa34cfbbc4010f0c3154cb"
+os = "freebsd"
+
+    [[tree_sitter_css.download]]
+    sha256 = "98c7b8d26c86192cf1be9c73a1695014fea43b23765116f2b2be80d762762956"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.x86_64-unknown-freebsd.tar.gz"
+[[tree_sitter_css]]
+arch = "x86_64"
+git-tree-sha1 = "ef35eec6fa2b430b96e60d29f0a970b501e4fa52"
+os = "windows"
+
+    [[tree_sitter_css.download]]
+    sha256 = "1dc1c65feb261fc87d9ee8e62a7f88a61ed8d9b171594584f769de88caa135dd"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_css_jll.jl/releases/download/tree_sitter_css-v0.25.0+0/tree_sitter_css.v0.25.0.x86_64-w64-mingw32.tar.gz"
